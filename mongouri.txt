@@ -1,0 +1,2 @@
+mongosh "mongodb+srv://cluster0.jwhcr.mongodb.net/test2" --username dbUser
+mongodb+srv://dbUser:wH4jstXeduC75fsA@cluster0.jwhcr.mongodb.net/test2
